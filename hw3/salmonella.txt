@@ -1,0 +1,5 @@
+surface presentation of antigens protein SpaO [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] 
+surface presentation of antigens protein SpaS [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]  
+ATP synthase SpaL [Salmonella enterica] 
+needle length control protein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] 
+needle complex export protein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] 
